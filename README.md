@@ -14,7 +14,8 @@
   - Graph databases store data in nodes and edges. Nodes typically store information about people, places, and things, while edges store information about the relationships between the nodes.
 ***
 
-## MongoDB
+## References
 - [MongoDB - noSQL Database - YouTube video tutorial series](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao)
 - [No-SQL explained](https://www.mongodb.com/nosql-explained)
+- [PostgreSQL vs MySQL: Explore Their 12 Critical Differences](https://kinsta.com/blog/postgresql-vs-mysql/)
 ***
